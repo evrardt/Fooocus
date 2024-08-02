@@ -46,11 +46,10 @@
     "sam_downloads": {
         "sam_vit_h_4b8939.pth": "https://huggingface.co/mashb1t/misc/resolve/main/sam_vit_h_4b8939.pth"
     },
-    
     "embeddings_downloads": {},
     "upscale_models_downloads": {
         "fooocus_upscaler_s409985e5.bin": "https://huggingface.co/lllyasviel/misc/resolve/main/fooocus_upscaler_s409985e5.bin"
-    }
+    },
     "lora_downloads": {
         "TheFinal.safetensors": "https://civitai.com/api/download/models/389589?type=Model&format=SafeTensor&token=464a8ce7a252461f6ac0fea2cc23971c",
         "nsfw-xl-2.1.safetensors": "https://civitai.com/api/download/models/341068?type=Model&format=SafeTensor&token=464a8ce7a252461f6ac0fea2cc23971c",
