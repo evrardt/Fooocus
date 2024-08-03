@@ -35,8 +35,7 @@
     ],
     "default_aspect_ratio": "832*1216",
     "checkpoint_downloads": {
-        "sdxxxl_v30.safetensors": "https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=464a8ce7a252461f6ac0fea2cc23971c",
-        "omnigenxlNSFWSFW_v10.safetensors": "https://civitai.com/api/download/models/228559?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=464a8ce7a252461f6ac0fea2cc23971c"
+        "sdxxxl_v30.safetensors": "https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=464a8ce7a252461f6ac0fea2cc23971c"
     },
     "inpaint_downloads": {
         "groundingdino_swint_ogc.pth": "https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth",
@@ -52,11 +51,6 @@
     },
     "lora_downloads": {
         "TheFinal.safetensors": "https://civitai.com/api/download/models/389589?type=Model&format=SafeTensor&token=464a8ce7a252461f6ac0fea2cc23971c",
-        "nsfw-xl-2.1.safetensors": "https://civitai.com/api/download/models/341068?type=Model&format=SafeTensor&token=464a8ce7a252461f6ac0fea2cc23971c",
-        "FappXL.safetensors": "https://civitai.com/api/download/models/280811?type=Model&format=SafeTensor&token=464a8ce7a252461f6ac0fea2cc23971c",
-        "HandFineTuning_XL.safetensors": "https://civitai.com/api/download/models/358694?type=Model&format=SafeTensor&token=464a8ce7a252461f6ac0fea2cc23971c",
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "sdxl_lightning_4step_lora.safetensors": "https://huggingface.co/mashb1t/misc/resolve/main/sdxl_lightning_4step_lora.safetensors"
     },
     "previous_default_models": [
     ]
