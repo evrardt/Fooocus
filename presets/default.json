@@ -50,7 +50,7 @@
         "fooocus_upscaler_s409985e5.bin": "https://huggingface.co/lllyasviel/misc/resolve/main/fooocus_upscaler_s409985e5.bin"
     },
     "lora_downloads": {
-        "TheFinal.safetensors": "https://civitai.com/api/download/models/389589?type=Model&format=SafeTensor&token=464a8ce7a252461f6ac0fea2cc23971c",
+        "TheFinal.safetensors": "https://civitai.com/api/download/models/389589?type=Model&format=SafeTensor&token=464a8ce7a252461f6ac0fea2cc23971c"
     },
     "previous_default_models": [
     ]
