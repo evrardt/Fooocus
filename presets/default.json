@@ -35,7 +35,7 @@
     ],
     "default_aspect_ratio": "832*1216",
     "checkpoint_downloads": {
-        "sdxxxl_v30.safetensors": "https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=464a8ce7a252461f6ac0fea2cc23971c"
+        "sdxxxl_v30.safetensors": "https://civitai.com/api/download/models/167764?type=Model&format=SafeTensor&size=full&fp=fp16&token=464a8ce7a252461f6ac0fea2cc23971c"
     },
     "inpaint_downloads": {
         "groundingdino_swint_ogc.pth": "https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth",
